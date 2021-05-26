@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... emmm NOTHING.
-
 <details>
   <summary>
     <code>echo $ecrets</code>
@@ -14,7 +12,7 @@
   ```
 </details>
 
-### 技术栈 Github 统计
+### 学习中...
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=my0sotis&show_icons=true">
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
