@@ -8,7 +8,7 @@
   <br />
 
   ```
-  I’m a student from Wuhan University.
+  I’m a postgraduate from Zhejiang University.
   ```
 </details>
 
