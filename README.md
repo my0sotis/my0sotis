@@ -26,6 +26,7 @@
 ### 博客
 
 https://my0sotis.github.io/
+https://my0sotis.github.io/blog/
 
 <!-- 访客 -->
 <p align="center">
