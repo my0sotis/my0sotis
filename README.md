@@ -14,7 +14,7 @@
 
 ### 学习中...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=my0sotis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=my0sotis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my0sotis&layout=compact&hide=asp.net)](https://github.com/anuraghazra/github-readme-stats)
 
