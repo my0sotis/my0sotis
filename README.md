@@ -14,9 +14,7 @@
 
 ### 学习中...
 
-<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=my0sotis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my0sotis&layout=compact&hide=asp.net,html)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my0sotis&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=my0sotis&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 
 
 
