@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=my0sotis&show_icons=true&locale=en" alt="my0sotis" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=my0sotis&theme=transparent&locale=zh_Hans&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=my0sotis&theme=transparent&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
